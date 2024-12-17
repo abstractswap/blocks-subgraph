@@ -1,0 +1,39 @@
+{
+    "zero": {
+      "ConverterRegistryContract": {
+        "address": "0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e",
+        "startBlock": 727
+      }
+    },
+    "bob": {
+      "ConverterRegistryContract": {
+        "address": "0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e",
+        "startBlock": 5188280
+      }
+    },
+    "cyeth": {
+      "ConverterRegistryContract": {
+        "address": "0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e",
+        "startBlock": 9567951
+      }
+    },
+    "shape": {
+      "ConverterRegistryContract": {
+        "address": "0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e",
+        "startBlock": 6022152
+      }
+    },
+    "redstone": {
+      "ConverterRegistryContract": {
+        "address": "0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e",
+        "startBlock": 924516
+      }
+    },
+    "redstone-garnet": {
+      "ConverterRegistryContract": {
+        "address": "0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e",
+        "startBlock": 586081
+      }
+    }
+  }
+  
